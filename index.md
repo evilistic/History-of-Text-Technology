@@ -10,8 +10,8 @@ This website has been designed to present the culmination of my studies within t
 ## A Harmony of Primeval Alphabets
 I found this text relatively recently while looking through old books at a swap shop. Having lived overseas in the military, I realized I had fondness for foreign languages, studying Japanese, French, Lingala, and minimally Czech. Because of that background, stumbling across a point of reference for various primeval alphabets was very exciting. While not entirely useful outside of archaeological or anthropoly circles, this work can service as the basis of reference in manners of presentation, rather than just content. With that in mind I wanted to adapt the methodology of presentation to coding languages. I had to make a leap here because generally coding languages are limited to the generalized structures of modern keyboards and their alphabets. Instead of an alphabetical reference, I thought it would be more appropriate to display examples of language syntax. 
 
-<div id="container"> "Full Spread"
-    <img src="LINKURL.jpg">
+<div id="container"> 
+    <img src="https://i.imgur.com/01D1wTo.jpg">
     </div>
 
 ## A History of a Harmony
