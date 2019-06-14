@@ -26,10 +26,4 @@ A Harmony of Primeval Alphabets includes 45 different alphabets, and was brought
 The fact that the original work was published by a member of the clergy can provide insight into the cultural norm of the times. That members of the Church were often the most educated. Much like with that of Programming Languages today, the reference serves a small portion of the population who make time to study that specific field or time period. The documentation, accumulation, and dissemination of said references within those fields can have great impacts within the discourses and subcultures. 
 (https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/evilistic/History-of-Text-Technology/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
