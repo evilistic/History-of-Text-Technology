@@ -21,8 +21,8 @@ A Harmony of Primeval Alphabets includes 45 different alphabets, and was brought
 The fact that the original work was published by a member of the clergy can provide insight into the cultural norm of the times. That members of the Church were often the most educated. Much like with that of Programming Languages today, the reference serves a small portion of the population who make time to study that specific field or time period. The documentation, accumulation, and dissemination of said references within those fields can have great impacts within the discourses and subcultures. 
 
 ## My Adaptation
-<div id="container"> "My Adaptation"
-    <img src="LinkURL.jpg">
+<div id="container"> 
+    <img src="https://i.imgur.com/RviUfuu.jpg">
     </div>
 
 ## Breaking down my Adaptation
