@@ -4,7 +4,7 @@
 This website has been designed to present the culmination of my studies within the History of Text Technology class. Here I'll introduce imagery both historical and of my own adaptation. The goal is to analyse the significance of the of the original work, its audience, and how that might translate to audiences today. I mean to adapt this into the realm of coding languages in modern society. 
 
 <div id="container"> 
-    <img src="[Imgur](https://i.imgur.com/7kWuwUQ.jpg)">
+    <img src="https://i.imgur.com/7kWuwUQ.jpg">
     </div>
 
 ## A Harmony of Primeval Alphabets
